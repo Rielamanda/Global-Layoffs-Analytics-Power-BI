@@ -1,6 +1,6 @@
 # 📊 Dashboard Analisis PHK Global (Power BI)
 
-![Dashboard Preview](Screenshot(3).png) 
+![Dashboard Preview](Dasboard.png) 
 
 ---
 
